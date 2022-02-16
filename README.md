@@ -1,2 +1,2 @@
-# gwgrb-science.github.io
-GW-GRB Working Group Website
+# GW-GRB Working Group Website
+
