@@ -9,4 +9,4 @@
 
 ### Contact 
 
-[Link](url) and ![Image](src)
+[Link](https://gwgrb-science.github.io/people.html) and ![Image](src)
